@@ -26,7 +26,7 @@ console.log(
   SENTENCE.split(" ").length
 );
 
-console.log("The 61st character:", SENTENCE[61]);
+console.log("The 61st character:", SENTENCE[60]);
 
 console.log(
   "Replace 'you' with 'I' in the whole phrase:",
