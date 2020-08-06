@@ -1,1 +1,3 @@
-# JavaScript Class Work
+# Code Snippets
+
+Example Code Blocks 🌋
